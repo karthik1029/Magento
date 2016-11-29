@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 
 public class Test6 {
 
+	
 	public static WebDriver driver;
 	public static String baseURL;
 	

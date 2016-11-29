@@ -6,6 +6,7 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -51,6 +52,7 @@ public class Test7 {
 	    try {
 			Assert.assertEquals(ordPendingexp, ordPending);
 		} catch (Exception e) {
+			System.out.println("Status of the order is not displayed");
 			e.printStackTrace();
 		}
 	    //click print order
@@ -62,13 +64,15 @@ public class Test7 {
 	    	}  
 	    Thread.sleep(2000);
 	    //check whether a pdf file is created
-	 // switching to new window                                                                                
+	    // switching to new window                                                                                
 	    for (String handle : driver.getWindowHandles()) { 
 	    	driver.switchTo().window(handle).close();
-	    	}  
-	    
-	   
-	  
-	  
+	    	}  	  
+  }
+  
+  @AfterTest
+  public void close()
+  {
+	  driver.quit();
   }
 }

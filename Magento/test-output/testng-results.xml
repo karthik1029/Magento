@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27205" started-at="2016-11-29T00:57:43Z" finished-at="2016-11-29T00:58:10Z">
+  <suite name="Default suite" duration-ms="22310" started-at="2016-11-29T03:01:42Z" finished-at="2016-11-29T03:02:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27205" started-at="2016-11-29T00:57:43Z" finished-at="2016-11-29T00:58:10Z">
-      <class name="day6.Test6">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:day6.Test6@4cc0edeb]" name="setUp" is-config="true" duration-ms="2983" started-at="2016-11-28T18:57:43Z" finished-at="2016-11-28T18:57:46Z">
+    <test name="Default test" duration-ms="22310" started-at="2016-11-29T03:01:42Z" finished-at="2016-11-29T03:02:04Z">
+      <class name="day7.Test7">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:day7.Test7@7823a2f9]" name="setUp" is-config="true" duration-ms="7070" started-at="2016-11-28T21:01:42Z" finished-at="2016-11-28T21:01:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="f()[pri:0, instance:day6.Test6@4cc0edeb]" name="f" duration-ms="24212" started-at="2016-11-28T18:57:46Z" finished-at="2016-11-28T18:58:10Z">
+        <test-method status="PASS" signature="test7()[pri:0, instance:day7.Test7@7823a2f9]" name="test7" duration-ms="15225" started-at="2016-11-28T21:01:49Z" finished-at="2016-11-28T21:02:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="close()[pri:0, instance:day6.Test6@4cc0edeb]" name="close" is-config="true" duration-ms="0" started-at="2016-11-28T18:58:10Z" finished-at="2016-11-28T18:58:10Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-      </class> <!-- day6.Test6 -->
+        </test-method> <!-- test7 -->
+      </class> <!-- day7.Test7 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

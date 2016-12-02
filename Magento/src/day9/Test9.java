@@ -54,10 +54,7 @@ public class Test9 {
 	  String disc=driver.findElement(By.xpath("/html/body/div/div/div[2]/div/div/div/div[3]/div/table/tbody/tr[2]/td[2]/span")).getText();
 	  float disc1=Float.parseFloat(disc.replace("-$", ""));
 	  
-	  
-	  
-	  
-	  
+
 	  System.out.println(graTot1);
 	  System.out.println(graDisc1 );
 	  

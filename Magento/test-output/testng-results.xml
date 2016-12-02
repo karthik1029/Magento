@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15989" started-at="2016-12-01T01:15:20Z" finished-at="2016-12-01T01:15:36Z">
+  <suite name="Default suite" duration-ms="16959" started-at="2016-12-02T00:08:36Z" finished-at="2016-12-02T00:08:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15989" started-at="2016-12-01T01:15:20Z" finished-at="2016-12-01T01:15:36Z">
-      <class name="day9.Test9">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:day9.Test9@4cc0edeb]" name="setUp" is-config="true" duration-ms="7486" started-at="2016-11-30T19:15:20Z" finished-at="2016-11-30T19:15:27Z">
+    <test name="Default test" duration-ms="16959" started-at="2016-12-02T00:08:36Z" finished-at="2016-12-02T00:08:53Z">
+      <class name="day10.Test10">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:day10.Test10@4cc0edeb]" name="setUp" is-config="true" duration-ms="5843" started-at="2016-12-01T18:08:36Z" finished-at="2016-12-01T18:08:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test9()[pri:0, instance:day9.Test9@4cc0edeb]" name="test9" duration-ms="8465" started-at="2016-11-30T19:15:27Z" finished-at="2016-11-30T19:15:36Z">
+        <test-method status="PASS" signature="test10()[pri:0, instance:day10.Test10@4cc0edeb]" name="test10" duration-ms="10954" started-at="2016-12-01T18:08:42Z" finished-at="2016-12-01T18:08:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test9 -->
-        <test-method status="PASS" signature="close()[pri:0, instance:day9.Test9@4cc0edeb]" name="close" is-config="true" duration-ms="23" started-at="2016-11-30T19:15:36Z" finished-at="2016-11-30T19:15:36Z">
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:day10.Test10@4cc0edeb]" name="close" is-config="true" duration-ms="150" started-at="2016-12-01T18:08:53Z" finished-at="2016-12-01T18:08:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- day9.Test9 -->
+      </class> <!-- day10.Test10 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

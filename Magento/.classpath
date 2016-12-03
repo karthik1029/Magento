@@ -35,5 +35,6 @@
 	<classpathentry kind="lib" path="C:/Users/karthik/Downloads/SeleniumAutomation Project/Selenium/JAR Files/Sel files/selenium-java-3.0.0-beta3/lib/netty-3.5.7.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/karthik/Downloads/SeleniumAutomation Project/Selenium/JAR Files/Sel files/selenium-java-3.0.0-beta3/lib/phantomjsdriver-1.3.0.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/karthik/Downloads/SeleniumAutomation Project/Selenium/JAR Files/Sel files/mail-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

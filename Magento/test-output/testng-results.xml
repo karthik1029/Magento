@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16959" started-at="2016-12-02T00:08:36Z" finished-at="2016-12-02T00:08:53Z">
+  <suite name="Default suite" duration-ms="21036" started-at="2016-12-03T07:27:41Z" finished-at="2016-12-03T07:28:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16959" started-at="2016-12-02T00:08:36Z" finished-at="2016-12-02T00:08:53Z">
+    <test name="Default test" duration-ms="21036" started-at="2016-12-03T07:27:41Z" finished-at="2016-12-03T07:28:02Z">
       <class name="day10.Test10">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:day10.Test10@4cc0edeb]" name="setUp" is-config="true" duration-ms="5843" started-at="2016-12-01T18:08:36Z" finished-at="2016-12-01T18:08:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:day10.Test10@724af044]" name="setUp" is-config="true" duration-ms="5906" started-at="2016-12-03T01:27:41Z" finished-at="2016-12-03T01:27:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test10()[pri:0, instance:day10.Test10@4cc0edeb]" name="test10" duration-ms="10954" started-at="2016-12-01T18:08:42Z" finished-at="2016-12-01T18:08:53Z">
+        <test-method status="PASS" signature="test10()[pri:0, instance:day10.Test10@724af044]" name="test10" duration-ms="15086" started-at="2016-12-03T01:27:47Z" finished-at="2016-12-03T01:28:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test10 -->
-        <test-method status="PASS" signature="close()[pri:0, instance:day10.Test10@4cc0edeb]" name="close" is-config="true" duration-ms="150" started-at="2016-12-01T18:08:53Z" finished-at="2016-12-01T18:08:53Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:day10.Test10@724af044]" name="close" is-config="true" duration-ms="30" started-at="2016-12-03T01:28:02Z" finished-at="2016-12-03T01:28:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

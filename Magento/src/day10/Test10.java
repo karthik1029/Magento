@@ -25,7 +25,6 @@ public class Test10 {
 	{
 		FirefoxProfile fp=new FirefoxProfile();
 		
-		
 		fp.setPreference("browser.download.dir", "C://Users/karthik/Downloads");
 		fp.setPreference("browser.download.folderList", 2);
 		fp.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/msword,application/csv,text/csv,image/png ,image/jpeg, application/pdf, text/html,text/plain,application/octet-stream");

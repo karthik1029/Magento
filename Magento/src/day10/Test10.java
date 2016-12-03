@@ -28,7 +28,6 @@ public class Test10 {
 		
 		fp.setPreference("browser.download.dir", "C://Users/karthik/Downloads");
 		fp.setPreference("browser.download.folderList", 2);
-//		fp.setPreference("browser.helperApps.neverAsk.saveToDisk", "text/csv");
 		fp.setPreference("browser.helperApps.neverAsk.saveToDisk", "application/msword,application/csv,text/csv,image/png ,image/jpeg, application/pdf, text/html,text/plain,application/octet-stream");
 		fp.setPreference( "browser.download.manager.showWhenStarting", false );
 		fp.setPreference( "pdfjs.disabled", true );
